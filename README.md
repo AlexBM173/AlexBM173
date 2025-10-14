@@ -2,6 +2,8 @@
 
 I'm an MPhil in Data Intensive Science student at Queens' College, University of Cambridge. I will be studying the foundational statistical, machine learning, and computational techniques underpinning modern scientific research, focusing on their application to cosmology and astronomy.
 
+---
+
 ### Cosmology 🔭
 
 As an undergraduate, I studied astrophysics at Cambridge, with a particular interest in cosmology which is the study of the Universe and everything in it. More broadly, I am also passionate about astrophysics and theoretical physics and have found that cosmology is the perfect marriage of the two.
