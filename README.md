@@ -4,6 +4,16 @@ I'm an MPhil in Data Intensive Science student at Queens' College, University of
 
 ---
 
+### Skills
+
+🐍 Python (NumPy, Scipy, matplotlib, Pandas, Seaborn, astropy, healpy)
+⚙️ C++
+✏️ Mathematical methods
+🖥️ Machine learning and deep learning (Scikit-Learn, PyTorch, TensorFlow)
+🗒️ LaTeX
+
+---
+
 ### Cosmology 🔭
 
 As an undergraduate, I studied astrophysics at Cambridge, with a particular interest in cosmology which is the study of the Universe and everything in it. More broadly, I am also passionate about astrophysics and theoretical physics and have found that cosmology is the perfect marriage of the two.
