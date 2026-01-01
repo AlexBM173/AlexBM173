@@ -7,9 +7,10 @@ I'm an MPhil in Data Intensive Science student at Queens' College, University of
 ### Skills
 
 - 🐍 Python (NumPy, Scipy, matplotlib, Pandas, Seaborn, astropy, healpy)
+- 🖥️ Machine learning and deep learning (Scikit-Learn, PyTorch, TensorFlow)
+- 🔬 Statistics and data analysis
 - ⚙️ C++
 - ✏️ Mathematical methods
-- 🖥️ Machine learning and deep learning (Scikit-Learn, PyTorch, TensorFlow)
 - 🗒️ LaTeX
 
 ---
