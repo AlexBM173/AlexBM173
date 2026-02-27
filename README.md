@@ -1,4 +1,4 @@
-## Hello? ☎️
+## About me
 
 I'm an MPhil in Data Intensive Science student at Queens' College, University of Cambridge. I will be studying the foundational statistical, machine learning, and computational techniques underpinning modern scientific research, focusing on their application to cosmology and astronomy.
 
