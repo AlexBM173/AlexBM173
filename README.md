@@ -1,12 +1,12 @@
 ## About me
 
-I'm an MPhil in Data Intensive Science student at Queens' College, University of Cambridge. I will be studying the foundational statistical, machine learning, and computational techniques underpinning modern scientific research, focusing on their application to cosmology and astronomy.
+I'm an MPhil in Data Intensive Science student at Queens' College, University of Cambridge, specialising in Bayesian statistics and deep learning and their applications in cosmology and radio astronomy.
 
 ---
 
 ### Skills
 
-- 🐍 Python (NumPy, Scipy, matplotlib, Pandas, Seaborn, astropy, healpy)
+- 🐍 Scientific Python (NumPy, Scipy, matplotlib, Pandas, Seaborn, astropy, healpy)
 - 🖥️ Machine learning and deep learning (Scikit-Learn, PyTorch, TensorFlow)
 - 🔬 Statistics and data analysis
 - ⚙️ C++
