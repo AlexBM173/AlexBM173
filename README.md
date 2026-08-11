@@ -1,6 +1,6 @@
 ## About me
 
-I'm an MPhil in Data Intensive Science student at Queens' College, University of Cambridge, specialising in Bayesian statistics and deep learning and their applications in cosmology and radio astronomy.
+I'm a PhD student at Cardiff University, working on cosmic microwave background and large-scale structure cosmology.
 
 ---
 
